@@ -4,7 +4,7 @@
 
 - lando v3.20.8
 - node v18
-- yarn
+- yarn v1.22.19
 
 ## Lando
 
