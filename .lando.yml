@@ -1,0 +1,11 @@
+name: next-medusa-commerce
+
+services:
+  appserver:
+    type: node:18
+
+  database:
+    type: postgres:14
+    portforward: 5432
+    creds:
+      database: vercel-commerce
